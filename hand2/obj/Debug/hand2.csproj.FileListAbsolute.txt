@@ -1,0 +1,280 @@
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\hand2.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\hand2.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\hand2.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csi.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Console.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.Process.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.IO.Compression.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.IO.Pipes.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.AccessControl.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Claims.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Threading.Thread.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.ValueTuple.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Antlr3.Runtime.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\EntityFramework.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\EntityFramework.SqlServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.Web.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.Web.Infrastructure.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Helpers.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Mvc.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Optimization.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Razor.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\WebGrease.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\EntityFramework.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\EntityFramework.SqlServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Helpers.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Mvc.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Optimization.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.Razor.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Antlr3.Runtime.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\bin\Microsoft.AI.Web.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\obj\Debug\hand2.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\obj\Debug\hand2.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\obj\Debug\hand2.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\obj\Debug\hand2.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\mvc\hand2\hand2\obj\Debug\hand2.pdb
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\hand2.dll.config
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\hand2.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\hand2.pdb
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csc.exe
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csc.exe.config
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csc.rsp
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csi.exe
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csi.exe.config
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\csi.rsp
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.AppContext.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Console.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.IO.Compression.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Claims.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.ValueTuple.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\vbc.exe
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\vbc.exe.config
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\vbc.rsp
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Antlr3.Runtime.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\EntityFramework.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\EntityFramework.SqlServer.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.Web.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Newtonsoft.Json.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Helpers.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Mvc.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Optimization.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Razor.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\WebGrease.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\EntityFramework.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\EntityFramework.SqlServer.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Helpers.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Mvc.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Optimization.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.Razor.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Antlr3.Runtime.pdb
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Newtonsoft.Json.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\bin\Microsoft.AI.Web.xml
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\obj\Debug\hand2.csproj.CoreCompileInputs.cache
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\obj\Debug\hand2.dll
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\obj\Debug\hand2.pdb
+C:\Users\מחשב\Desktop\mvc\hand2\hand2\obj\Debug\hand2.csprojResolveAssemblyReference.cache
+D:\mvc\hand2\hand2\bin\hand2.dll.config
+D:\mvc\hand2\hand2\bin\hand2.dll
+D:\mvc\hand2\hand2\bin\hand2.pdb
+D:\mvc\hand2\hand2\bin\roslyn\csc.exe
+D:\mvc\hand2\hand2\bin\roslyn\csc.exe.config
+D:\mvc\hand2\hand2\bin\roslyn\csc.rsp
+D:\mvc\hand2\hand2\bin\roslyn\csi.exe
+D:\mvc\hand2\hand2\bin\roslyn\csi.exe.config
+D:\mvc\hand2\hand2\bin\roslyn\csi.rsp
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mvc\hand2\hand2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.AppContext.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Collections.Immutable.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Console.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.Process.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.IO.Compression.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.IO.Pipes.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Reflection.Metadata.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.AccessControl.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Claims.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Threading.Thread.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.ValueTuple.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.dll
+D:\mvc\hand2\hand2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mvc\hand2\hand2\bin\roslyn\vbc.exe
+D:\mvc\hand2\hand2\bin\roslyn\vbc.exe.config
+D:\mvc\hand2\hand2\bin\roslyn\vbc.rsp
+D:\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe
+D:\mvc\hand2\hand2\bin\roslyn\VBCSCompiler.exe.config
+D:\mvc\hand2\hand2\bin\Antlr3.Runtime.dll
+D:\mvc\hand2\hand2\bin\EntityFramework.dll
+D:\mvc\hand2\hand2\bin\EntityFramework.SqlServer.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.Web.dll
+D:\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.dll
+D:\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.dll
+D:\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mvc\hand2\hand2\bin\Microsoft.Web.Infrastructure.dll
+D:\mvc\hand2\hand2\bin\Newtonsoft.Json.dll
+D:\mvc\hand2\hand2\bin\System.Web.Helpers.dll
+D:\mvc\hand2\hand2\bin\System.Web.Mvc.dll
+D:\mvc\hand2\hand2\bin\System.Web.Optimization.dll
+D:\mvc\hand2\hand2\bin\System.Web.Razor.dll
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.dll
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.dll
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.dll
+D:\mvc\hand2\hand2\bin\WebGrease.dll
+D:\mvc\hand2\hand2\bin\EntityFramework.xml
+D:\mvc\hand2\hand2\bin\EntityFramework.SqlServer.xml
+D:\mvc\hand2\hand2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mvc\hand2\hand2\bin\System.Web.Helpers.xml
+D:\mvc\hand2\hand2\bin\System.Web.Mvc.xml
+D:\mvc\hand2\hand2\bin\System.Web.Optimization.xml
+D:\mvc\hand2\hand2\bin\System.Web.Razor.xml
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.xml
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.Deployment.xml
+D:\mvc\hand2\hand2\bin\System.Web.WebPages.Razor.xml
+D:\mvc\hand2\hand2\bin\Antlr3.Runtime.pdb
+D:\mvc\hand2\hand2\bin\Newtonsoft.Json.xml
+D:\mvc\hand2\hand2\bin\Microsoft.ApplicationInsights.xml
+D:\mvc\hand2\hand2\bin\Microsoft.AI.DependencyCollector.xml
+D:\mvc\hand2\hand2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\mvc\hand2\hand2\bin\Microsoft.AI.WindowsServer.xml
+D:\mvc\hand2\hand2\bin\Microsoft.AI.Web.xml
+D:\mvc\hand2\hand2\obj\Debug\hand2.csprojResolveAssemblyReference.cache
+D:\mvc\hand2\hand2\obj\Debug\hand2.csproj.CoreCompileInputs.cache
+D:\mvc\hand2\hand2\obj\Debug\hand2.dll
+D:\mvc\hand2\hand2\obj\Debug\hand2.pdb

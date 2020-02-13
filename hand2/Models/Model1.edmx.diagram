@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e5fdb8e2629d4ae29c7e3a59ac72fdbd" Name="Diagram1">
+        <EntityTypeShape EntityType="Yad2SariHuminerModel.Area" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Yad2SariHuminerModel.Category" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Yad2SariHuminerModel.item" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Yad2SariHuminerModel.User" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="Yad2SariHuminerModel.FK_Areas_Areas" ManuallyRouted="false" />
+        <AssociationConnector Association="Yad2SariHuminerModel.FK_items_Areas" ManuallyRouted="false" />
+        <AssociationConnector Association="Yad2SariHuminerModel.FK_Categories_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="Yad2SariHuminerModel.FK_items_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="Yad2SariHuminerModel.FK_items_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

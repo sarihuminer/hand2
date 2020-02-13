@@ -1,0 +1,128 @@
+﻿@model IEnumerable<hand2.Models.item>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2> 2 ברוכים הבאים לאתר יד </h2>
+
+@using (Ajax.BeginForm("Search", new AjaxOptions()
+{
+    UpdateTargetId = "Res",
+    HttpMethod = "POST",
+    InsertionMode = InsertionMode.Replace,
+    //LoadingElementDuration=2000,
+    //LoadingElementId= "loading",
+
+}))
+{
+    <h2>חיפוש</h2>
+    <label>ממחיר</label>
+    <input type="number" min="20" class="inpu" id="small" name="min_price" />
+    <label>עד מחיר</label>
+    <input type="number" min="20" class="inpu" id="big"name="max_price" />
+    <br />
+    <label>אזור</label>
+    <select id="area" class="inpu" name="selectarea">
+
+        @foreach (var item in ViewBag.areas)
+        {
+            <option value="@item.AreaId">@item.AreaName</option>
+        }
+    </select>
+    <labeln id="citylabel" hidden>ערים</labeln>
+    <select class="inpu" id="cities" name="select_cities" hidden></select>
+    <label>חפוס חופשי</label>
+    <input type="text" class="inpu" name="dis" />
+    <label>קטגוריה</label>
+    <select id="category" class="inpu" name="selectcategory">
+
+        @foreach (var item in ViewBag.categories)
+        {
+            <option value="@item.CategoryId">@item.CategoryName</option>
+        }
+    </select>
+    <labeln id="subtcategorylabel" hidden>תת קטגוריה</labeln>
+    <select id="subcategoty" class="inpu" name="subcategoty" hidden></select>
+
+    <label>מצב פריט</label>
+    <input type="text" name="status" class="inpu"/>
+    <button hidden id="sub">שלח</button>
+    <script>
+
+        $("#area").change(
+            function () {
+                $.ajax({
+                    url: "/items/GetCities",
+                    data: { ID: $(this).val() },
+
+                    success: function (y) {
+                        $("#cities").empty();
+                        //$("#cities").hide();
+                        //$("#citylabel").hide();
+                        $.each(y, function (i, op) {
+                            $("#cities").append($("<option></option").val(op.Value).html(op.Text));
+                            $("#cities").removeAttr("hidden");
+                        })
+
+                        //if ($(("#cities").length) > 0) {
+                        //    alert("yes! " + $(("#cities").length))
+                        //$("#cities").show();
+                        //$("#citylabel").show();
+                    }, error: function (e) { alert(e) }
+
+
+
+                })
+            }
+        )
+
+
+        $("#category").change(
+            function () {
+                $.ajax({
+                    url: "/items/GetCategoties",
+                    data: { ID: $(this).val() },
+
+                    success: function (y) {
+                        $("#subcategoty").empty();
+                        //$("#cities").hide();
+                        //$("#citylabel").hide();
+                        $.each(y, function (i, op) {
+                            $("#subcategoty").append($("<option></option").val(op.Value).html(op.Text));
+                            $("#subcategoty").removeAttr("hidden");
+                        })
+
+                        //if ($(("#cities").length) > 0) {
+                        //    alert("yes! " + $(("#cities").length))
+                        //$("#cities").show();
+                        //$("#citylabel").show();
+                    }, error: function (e) { alert(e) }
+
+
+
+                })
+            }
+        )
+
+
+        $(".inpu").change(
+            function () {
+                $("#sub").click()
+                
+            }
+        )
+
+    </script>
+
+}
+
+<div id="Res">
+@Html.Partial("_ListItems")
+</div>
+@if (ViewBag.clear != true)
+{
+    <div id="Details"></div>
+}
+
+

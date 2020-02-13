@@ -1,0 +1,95 @@
+﻿@model IEnumerable<hand2.Models.item>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.picture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Company)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Area.AreaName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.userName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date)
+            </td>
+            <td>
+                @*<img src="~/pictures/רמקול.png" />*@
+                <img src="~/pictures/@item.picture" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Area.AreaName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.userName)
+            </td>
+            <td>
+              
+                @if (Session["userId"].ToString() == item.userID.ToString() || Session["userId"].ToString() == "1")
+                {
+            @Html.ActionLink("Edit", "Edit", new { id = item.ItemID })
+            @Html.ActionLink("Delete", "Delete", new { id = item.ItemID })
+}
+
+
+
+                @Ajax.ActionLink("Details", "_Details", new { id = item.ItemID },
+                 new AjaxOptions()
+                 {
+                     HttpMethod = "Get",
+                     UpdateTargetId = "Details",
+                     InsertionMode = InsertionMode.Replace,
+                //LoadingElementDuration = 1000,
+                //   LoadingElementId = "load",
+
+            })|
+                @*            ActionLink("Details", "Details", new { id=item.ItemID })*@
+
+            </td>
+        </tr>
+    }
+
+</table>
